@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ufuk Yetiskin</h1>
 <h3 align="center">Intern Front-End Developer</h3>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uyetiskin" alt="uyetiskin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@yetiskinu" target="blank"><img src="https://img.shields.io/twitter/follow/@yetiskinu?logo=twitter&style=for-the-badge" alt="@yetiskinu" /></a> </p>
@@ -8,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yetiskinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yetiskinu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ufuk yetiskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ufuk yetiskin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ufuk-yetiskin-1b016b18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuk-yetiskin-1b016b18b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17855107/ufuk-yetiskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17855107/ufuk-yetiskin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ufukyetiskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ufukyetiskin" height="30" width="40" /></a>
 </p>
@@ -21,6 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uyetiskin&show_icons=true&locale=en" alt="uyetiskin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uyetiskin&" alt="uyetiskin" /></p>
-
 
 
