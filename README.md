@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Ufuk Yetişkin</h1>
 <h3 align="center">Stajyer Ön Uç Geliştirici</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=uyetiskin&label=Profile%20views&color=0e75b6&style=flat" alt="uyetiskin" /> </p>
+
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uyetiskin" alt="uyetiskin" /></a > </p>
 
