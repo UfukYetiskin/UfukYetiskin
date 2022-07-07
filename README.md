@@ -8,7 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://twitter.com/@yetiskinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yetiskinu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ufuk-yetiskin-1b016b18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuk-yetiskin-1b016b18b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17855107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17855107/ufuk-yetiskin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ufukyetiskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ufukyetiskin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
