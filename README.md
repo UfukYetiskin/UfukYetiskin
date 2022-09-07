@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ufuk Yetiskin</h1>
-<h3 align="center">Intern Front-End Developer</h3>
+<h3 align="center">Jr/ Front-End Developer</h3>
 
 
 
