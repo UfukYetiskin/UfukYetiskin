@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ufuk Yetişkin</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on PayBling [PayBling](https://paybling.co/)
-
-- 👯 I’m currently working on TPayment [Tpayment](https://tpayment.co/)
 
 - 💬 Ask me about **react, next.js and javascript**
 
